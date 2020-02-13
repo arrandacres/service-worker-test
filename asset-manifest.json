@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/service-worker-test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/service-worker-test/static/js/main.f14a1c78.chunk.js",
-    "main.js.map": "/service-worker-test/static/js/main.f14a1c78.chunk.js.map",
+    "main.js": "/service-worker-test/static/js/main.f21853ce.chunk.js",
+    "main.js.map": "/service-worker-test/static/js/main.f21853ce.chunk.js.map",
     "runtime-main.js": "/service-worker-test/static/js/runtime-main.6976ba9d.js",
     "runtime-main.js.map": "/service-worker-test/static/js/runtime-main.6976ba9d.js.map",
-    "static/js/2.2c651fa3.chunk.js": "/service-worker-test/static/js/2.2c651fa3.chunk.js",
-    "static/js/2.2c651fa3.chunk.js.map": "/service-worker-test/static/js/2.2c651fa3.chunk.js.map",
+    "static/js/2.9cd23a80.chunk.js": "/service-worker-test/static/js/2.9cd23a80.chunk.js",
+    "static/js/2.9cd23a80.chunk.js.map": "/service-worker-test/static/js/2.9cd23a80.chunk.js.map",
     "index.html": "/service-worker-test/index.html",
-    "precache-manifest.2d1cbba0263e1c15c4d20dbf3cfae5a8.js": "/service-worker-test/precache-manifest.2d1cbba0263e1c15c4d20dbf3cfae5a8.js",
+    "precache-manifest.b99dc90b76f0f1f8f6699b15e18f1a14.js": "/service-worker-test/precache-manifest.b99dc90b76f0f1f8f6699b15e18f1a14.js",
     "service-worker.js": "/service-worker-test/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/service-worker-test/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2c651fa3.chunk.js.LICENSE.txt": "/service-worker-test/static/js/2.2c651fa3.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/service-worker-test/static/media/logo.5d5d9eef.svg"
+    "static/js/2.9cd23a80.chunk.js.LICENSE.txt": "/service-worker-test/static/js/2.9cd23a80.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6976ba9d.js",
-    "static/js/2.2c651fa3.chunk.js",
+    "static/js/2.9cd23a80.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f14a1c78.chunk.js"
+    "static/js/main.f21853ce.chunk.js"
   ]
 }
